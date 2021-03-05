@@ -1,6 +1,6 @@
 ### Thank you for your visit! :pray:
 
-<!---![](https://komarev.com/ghpvc/?username=yuryprokashev&color=brightgreen&label=Views)--->
+[](https://komarev.com/ghpvc/?username=yuryprokashev&color=brightgreen&label=Views)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuryprokashev&count_private=true&hide=issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
